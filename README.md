@@ -1,7 +1,35 @@
-# Book-Store
-checkout the demo video file for functioning of book store
+# Online Bookstore
 
-Code Snippets:
+**Project Description**
+
+This project is an online bookstore created using MySQL, PHP, CSS, and HTML. The main focus of the project was to implement dynamic features and efficient database management.
+
+**Features**
+
+-> _Dynamic Catalog_: Browse and search through a wide range of books with real-time updates.
+
+-> _User Authentication_: Secure login and registration for users.
+
+-> _Record Management_: Track record history and status.
+
+-> _Admin Panel_: Manage book inventory, user accounts, and orders.
+
+**Technologies Used**
+
+-> _MySQL_: Database management for storing and retrieving book information, user data, and order details.
+
+-> _PHP_: Server-side scripting for dynamic content and database interactions.
+
+-> _CSS_: Styling for a responsive and user-friendly interface.
+
+-> _HTML_: Structure and layout of the web pages.
+
+**Contributing**
+
+Feel free to fork this repository, make improvements, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+**Snapshots**
+
 ![image](https://github.com/Parasar33/Book-Store/assets/110784718/f781f3ee-7dbc-4af9-b9e0-243fc912d004)
 ***********************************************************************************************************************************************************************************************************************
 ![image](https://github.com/Parasar33/Book-Store/assets/110784718/788f6143-ba26-495a-8b2b-2dd5ecfb3c6a)
