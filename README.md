@@ -41,4 +41,5 @@ Feel free to fork this repository, make improvements, and submit a pull request.
 
 **Working Demo**
 
-https://github.com/Parasar33/Book-Store/assets/110784718/cf319366-a3ac-4037-807e-88b840cb7302
+https://github.com/Parasar33/Book-Store/assets/110784718/dcbe6736-a815-49b2-bbce-64501ad18e09
+
